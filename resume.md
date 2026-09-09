@@ -1,14 +1,15 @@
-# Sheldon Horsford  
-
+# Sheldon Horsford
 Burnaby, BC • Remote </br>
 Email: shorsford.devops@outlook.com </br>
 LinkedIn: linkedin.com/in/sheldon-horsford-7656a2372 </br>
-GitHub: github.com/SHDevOp
+GitHub: github.com/SHDevOpsCloud
 
 ---
 
 ## Professional Summary
-Technical Support Specialist with 10+ years of experience troubleshooting complex systems, analyzing logs, and resolving incidents in high-pressure environments. Linux-first workflow, strong diagnostic instincts, and hands-on experience building Python automation tools, monitoring utilities, and reliability-focused scripts. Calm communicator with a methodical approach to problem-solving and a growing focus on DevOps fundamentals, observability, and infrastructure reliability. Personally aligned with medical technology that improves patient outcomes.
+Technical Support Specialist with 10+ years of experience troubleshooting complex systems, analyzing logs, and resolving incidents in high‑pressure environments. Linux‑first workflow, strong diagnostic instincts, and hands‑on experience building Python automation tools, monitoring utilities, and reliability‑focused scripts. Calm communicator with a methodical approach to problem‑solving and a growing focus on DevOps fundamentals, observability, and infrastructure reliability. Personally aligned with medical technology that improves patient outcomes.
+
+---
 
 ## Core Skills
 - Linux: shell navigation, logs, permissions, config editing, system troubleshooting
@@ -18,7 +19,7 @@ Technical Support Specialist with 10+ years of experience troubleshooting comple
 - Networking: DNS, TLS, ports, firewalls, connectivity troubleshooting
 - Support & Operations: incident triage, root cause analysis, escalation workflows
 - Communication: clear ticket updates, structured documentation, professional customer interaction
-- Remote Work Discipline: self-motivated, organized, consistent delivery
+- Remote Work Discipline: self‑motivated, organized, consistent delivery
 
 ---
 
@@ -28,37 +29,38 @@ Technical Support Specialist with 10+ years of experience troubleshooting comple
 - Investigated and resolved complex technical issues across distributed systems and integrations.
 - Analyzed logs, reproduced problems, isolated variables, and escalated with clear documentation.
 - Built Python automation tools including log parsers, metrics collectors, and file monitoring utilities.
-- Improved reliability by identifying recurring patterns and implementing small automation fixes.
-- Collaborated with IT teams, administrators, and non-technical staff with calm, clear communication.
+- Improved reliability by identifying recurring patterns and implementing targeted automation fixes.
+- Collaborated with IT teams, administrators, and non‑technical staff with calm, clear communication.
 - Maintained detailed internal documentation, troubleshooting guides, and operational notes.
 - Supported deployments, configuration changes, and environment updates under time pressure.
-- Practiced disciplined remote work habits: structured workflow, self-management, and consistent output.
+- Practiced disciplined remote work habits: structured workflow, self‑management, and consistent output.
 
 ---
 
 ## Technical Projects
 ### FileCheckerCache (Python)
-Threaded file monitoring tool with timestamp logic, safe concurrency, and configurable alerting.
+- Threaded file monitoring tool with timestamp logic, safe concurrency, and configurable alerting.
+
 
 ### MetricsCache (Python)
-Lightweight metrics collector for log parsing and Prometheus-style output.
+- Lightweight metrics collector for log parsing and Prometheus‑style output.
 
 ### Python Log Parser
-Real-time log tailing with structured metrics extraction and reliability-focused design.
+- Real‑time log tailing with structured metrics extraction and reliability‑focused design.
 
-### Excel-to-Caché Importer
-Automation utility for conditional database updates via ODBC, reducing manual workload.
+### Excel‑to‑Caché Importer
+- Automation utility for conditional database updates via ODBC, reducing manual workload.
 
----
+--- 
 
 ## Education
-- Self-directed DevOps and Linux training
+- Self‑directed DevOps and Linux training
 - Continuous learning in Kubernetes, AWS, containers, and infrastructure fundamentals
 
 ---
 
 ## Personal Alignment
-Experienced the long-term impact of a hip dislocation injury, giving me a personal understanding of the importance of early detection, bone health, and patient-centered medical technology. Strong alignment with 16 Bit’s mission to identify patients who would otherwise be missed.
+Experienced the long‑term impact of a hip dislocation injury, giving me a personal understanding of the importance of early detection, bone health, and patient‑centered medical technology. Strong alignment with 16 Bit’s mission to identify patients who would otherwise be missed.
 
 ---
 
