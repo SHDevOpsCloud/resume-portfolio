@@ -5,6 +5,8 @@ Burnaby, BC • Remote
 **LinkedIn:** linkedin.com/in/sheldon-horsford-7656a2372
 **GitHub:** github.com/SHDevOp
 
+---
+
 ## Professional Summary
 Technical Support Specialist with 10+ years of experience troubleshooting complex systems, analyzing logs, and resolving incidents in high-pressure environments. Linux-first workflow, strong diagnostic instincts, and hands-on experience building Python automation tools, monitoring utilities, and reliability-focused scripts. Calm communicator with a methodical approach to problem-solving and a growing focus on DevOps fundamentals, observability, and infrastructure reliability. Personally aligned with medical technology that improves patient outcomes.
 
@@ -18,6 +20,8 @@ Technical Support Specialist with 10+ years of experience troubleshooting comple
 - Communication: clear ticket updates, structured documentation, professional customer interaction
 - Remote Work Discipline: self-motivated, organized, consistent delivery
 
+---
+
 ## Professional Experience
 ### Technical Support Specialist — Payment Processing Environment
 #### Remote • 10+ years
@@ -30,6 +34,8 @@ Technical Support Specialist with 10+ years of experience troubleshooting comple
 - Supported deployments, configuration changes, and environment updates under time pressure.
 - Practiced disciplined remote work habits: structured workflow, self-management, and consistent output.
 
+---
+
 ## Technical Projects
 ### FileCheckerCache (Python)
 Threaded file monitoring tool with timestamp logic, safe concurrency, and configurable alerting.
@@ -40,8 +46,10 @@ Lightweight metrics collector for log parsing and Prometheus-style output.
 ### Python Log Parser
 Real-time log tailing with structured metrics extraction and reliability-focused design.
 
-## Excel-to-Caché Importer
+### Excel-to-Caché Importer
 Automation utility for conditional database updates via ODBC, reducing manual workload.
+
+---
 
 ## Education
 - Self-directed DevOps and Linux training
