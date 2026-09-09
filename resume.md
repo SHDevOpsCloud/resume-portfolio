@@ -1,9 +1,9 @@
 # Sheldon Horsford  
 
-Burnaby, BC • Remote
-**Email:** shorsford.devops@outlook.com
-**LinkedIn:** linkedin.com/in/sheldon-horsford-7656a2372
-**GitHub:** github.com/SHDevOp
+Burnaby, BC • Remote </br>
+Email: shorsford.devops@outlook.com </br>
+LinkedIn: linkedin.com/in/sheldon-horsford-7656a2372 </br>
+GitHub: github.com/SHDevOp
 
 ---
 
