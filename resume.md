@@ -37,17 +37,17 @@ Technical Support Specialist with 10+ years of experience troubleshooting comple
 
 ## Technical Projects
 ### FileCheckerCache (Python)
-- Threaded file monitoring tool with timestamp logic, safe concurrency, and configurable alerting.
+Threaded file monitoring tool with timestamp logic, safe concurrency, and configurable alerting.
 
 
 ### MetricsCache (Python)
-- Lightweight metrics collector for log parsing and Prometheus‑style output.
+Lightweight metrics collector for log parsing and Prometheus‑style output.
 
 ### Python Log Parser
-- Real‑time log tailing with structured metrics extraction and reliability‑focused design.
+Real‑time log tailing with structured metrics extraction and reliability‑focused design.
 
 ### Excel‑to‑Caché Importer
-- Automation utility for conditional database updates via ODBC, reducing manual workload.
+Automation utility for conditional database updates via ODBC, reducing manual workload.
 
 --- 
 
