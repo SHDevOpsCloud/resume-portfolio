@@ -55,8 +55,12 @@ Automation utility for conditional database updates via ODBC, reducing manual wo
 - Self-directed DevOps and Linux training
 - Continuous learning in Kubernetes, AWS, containers, and infrastructure fundamentals
 
+---
+
 ## Personal Alignment
 Experienced the long-term impact of a hip dislocation injury, giving me a personal understanding of the importance of early detection, bone health, and patient-centered medical technology. Strong alignment with 16 Bit’s mission to identify patients who would otherwise be missed.
+
+---
 
 ## Additional
 - Eligible for remote work
