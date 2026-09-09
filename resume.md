@@ -1,8 +1,9 @@
-Sheldon Horsford  
+#Sheldon Horsford  
+
 Burnaby, BC • Remote
-Email: shorsford.devops@outlook.com
-LinkedIn: linkedin.com/in/sheldon-horsford-7656a2372
-GitHub: github.com/SHDevOp
+**Email: shorsford.devops@outlook.com
+**LinkedIn: linkedin.com/in/sheldon-horsford-7656a2372
+**GitHub: github.com/SHDevOp
 
 ## Professional Summary
 Technical Support Specialist with 10+ years of experience troubleshooting complex systems, analyzing logs, and resolving incidents in high-pressure environments. Linux-first workflow, strong diagnostic instincts, and hands-on experience building Python automation tools, monitoring utilities, and reliability-focused scripts. Calm communicator with a methodical approach to problem-solving and a growing focus on DevOps fundamentals, observability, and infrastructure reliability. Personally aligned with medical technology that improves patient outcomes.
